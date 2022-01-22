@@ -25,7 +25,7 @@ namespace Учебная_практика
 
         private void button1_Click(object sender, EventArgs e)
         {
-            menu Form1 = new menu();
+            Form1 Form1 = new Form1();
             Form1.ShowDialog();
         }
 
